@@ -1,0 +1,30 @@
+* {
+  background: #62374e;
+}
+
+div {
+  background: #fdc57b;
+  height: 50px;
+  width: 50px;
+  position: fixed;
+}
+
+#ul {
+  top: 50px;
+  left: 50px;
+}
+
+#ur {
+  top: 50px;
+  right: 50px;
+}
+
+#bl {
+  bottom: 50px;
+  left: 50px;
+}
+
+#br {
+  bottom: 50px;
+  right: 50px;
+}

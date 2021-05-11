@@ -1,0 +1,44 @@
+body {
+    background: #6592CF
+}
+
+#block {
+    position: relative;
+    top: 75px;
+    left: 50px;
+    height: 200px;
+    width: 400px;
+    background: #243D83
+}
+
+#circle-3 {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background: #6592CF;
+    left: 110px;
+    top: 35px;
+    
+}
+
+#circle-2 {
+    position: absolute;
+    height: 210px;
+    width: 210px;
+    border-radius: 50%;
+    background: #243D83;
+    left: 155px;
+    top: 80px;
+
+}
+
+#circle-1 {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    left: 210px;
+    top: 135px;
+    background: #EEB850;
+}
