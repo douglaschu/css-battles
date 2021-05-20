@@ -1,0 +1,35 @@
+* {
+  background: #6592cf;
+}
+div {
+  position: fixed;
+}
+#handle {
+  background: #060f55;
+  height: 100px;
+  width: 20px;
+  top: 200px;
+  left: 190px;
+}
+#head {
+  background: #060f55;
+  height: 150px;
+  width: 140px;
+  border-radius: 0 0 100px 100px;
+  top: 100px;
+  left: 130px;
+}
+#negative1 {
+  background: #6592cf;
+  width: 20px;
+  height: 100px;
+  top: 50px;
+}
+#tine1 {
+  height: 50px;
+  width: 20px;
+  background: #060f55;
+  top: 50px;
+  left: 50 px;
+  border-radius: 100px 100px 0 0;
+}

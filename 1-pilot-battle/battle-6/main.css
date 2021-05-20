@@ -1,0 +1,14 @@
+* {
+    background-color: #E3516E;
+  }
+  div {
+    margin: 3em auto;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border-width: 100px;
+    border-style: solid;
+    border-color: #FADE8B #E3516E #F7F3D7 #51B5A9;
+    transform: rotate(45deg);
+  }

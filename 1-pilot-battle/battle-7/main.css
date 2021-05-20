@@ -1,0 +1,25 @@
+* {
+  background: #0b2429;
+}
+div {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px 0px;
+  position: fixed;
+  top: 75px;
+}
+#left {
+  background: #1a4341;
+  z-index: 1;
+  left: 75px;
+}
+#mid {
+  background: #998235;
+  z-index: 2;
+  left: 125px;
+}
+#right {
+  background: #f3ac3c;
+  z-index: 3;
+  left: 175px;
+}
